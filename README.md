@@ -11,9 +11,6 @@ Python (Pandas), Power BI
 - Data transformation and modeling
 - Dashboard development in Power BI
 
-## Dashboard Preview
-![Dashboard](images/dashboard.png)
-
 ## Key Metrics
 - Total End Inventory Value
 - Average Profit Margin
